@@ -1,0 +1,14 @@
+﻿  Source.cpp
+D:\Users\Home\Downloads\Сard game fool\Сard game fool\Source.cpp(106,11): warning C4018: <=: несоответствие типов со знаком и без знака
+D:\Users\Home\Downloads\Сard game fool\Сard game fool\Source.cpp(209,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Users\Home\Downloads\Сard game fool\Сard game fool\Source.cpp(212,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Users\Home\Downloads\Сard game fool\Сard game fool\Source.cpp(273,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Users\Home\Downloads\Сard game fool\Сard game fool\Source.cpp(290,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Users\Home\Downloads\Сard game fool\Сard game fool\Source.cpp(299,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Users\Home\Downloads\Сard game fool\Сard game fool\Source.cpp(316,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Users\Home\Downloads\Сard game fool\Сard game fool\Source.cpp(332,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Users\Home\Downloads\Сard game fool\Сard game fool\Source.cpp(350,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Users\Home\Downloads\Сard game fool\Сard game fool\Source.cpp(363,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Users\Home\Downloads\Сard game fool\Сard game fool\Source.cpp(401,23): warning C4018: <=: несоответствие типов со знаком и без знака
+D:\Users\Home\Downloads\Сard game fool\Сard game fool\Source.cpp(499,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Сard game fool.vcxproj -> D:\Users\Home\Downloads\Сard game fool\Debug\Сard game fool.exe
